@@ -1,5 +1,6 @@
 public class b2 {
     public static void main (String[] args){
-        System.out.println ("I am created in branch2");
+        System.out.println ("I am created in branch2"); 
+        //I am added by second user 
     }
 }
