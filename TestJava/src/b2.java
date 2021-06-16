@@ -4,6 +4,8 @@ public class b2 {
         //I am added by second user
        // i am added by krishna locally in branch2
        //pull ex asked by team
+        //pull text written by krishna
+       //pull ex asked by team
         // i am added by krishna locally in branch2
     }
 }
